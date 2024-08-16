@@ -1,0 +1,21 @@
+{
+  "name": "Solarman",
+  "url": "globalapi.solarmanpv.com",
+  "appid": "312407174309012",
+  "secret": "d9c9b4bf0e1cfc1f54ecb4baaa0d6c87",
+  "username": "assiaugust@gmail.com",
+  "password": "Smart2024",
+  "orgId": "10484901",
+  "stationId": 62038232,
+  "inverterId": "2305270136",
+  "loggerId": 2763967712,
+  "interval": 300,
+  "debug": true,
+  "mqtt": {
+    "broker": "192.168.33.11",
+    "port": 1883,
+    "topic": "solarmanpv",
+    "username": "",
+    "password": ""
+  }
+}
